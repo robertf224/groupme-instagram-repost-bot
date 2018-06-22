@@ -1,0 +1,5 @@
+config.yml
+last-scrape.txt
+ghostdriver.log
+nohup.out
+*.pyc

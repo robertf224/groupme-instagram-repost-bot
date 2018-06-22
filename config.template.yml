@@ -1,0 +1,4 @@
+instagram-account: <some-instagram-account>
+# Sleep time between crawls in seconds
+sleep: 3600
+groupme-bot-id: <your-bot-id>
